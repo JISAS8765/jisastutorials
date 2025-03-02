@@ -28,7 +28,7 @@ export default function AssignmentHelp() {
       </div>
       <div className="mt-10 md:mt-0">
         <Image
-          src="/pic1.png"
+          src="/jisasimggg.png"
           alt="Smiling Student"
           width={350}
           height={350}
